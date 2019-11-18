@@ -1,9 +1,9 @@
 # users = [
 #   { username: "falguni", password: "995577" },
-#   { username: "jack", password: "fa1302" },
-#   { username: "shaim", password: "fa1303" },
-#   { username: "ali", password: "fa1304" },
-#   { username: "mehnaz", password: "fa1305" },
+#   { username: "jack", password: "9955" },
+#   { username: "shaim", password: "9944" },
+#   { username: "ali", password: "9933" },
+#   { username: "mehnaz", password: "9922" },
 # ]
 
 # puts "Welcome to the authenticator"
